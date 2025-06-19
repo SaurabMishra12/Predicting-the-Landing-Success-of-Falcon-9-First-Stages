@@ -522,9 +522,8 @@ Special thanks to:
 ## 📞 Contact & Support
 
 - **Author**: Saurab Mishra
-- **Email**: [your.email@domain.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Project Issues**: [GitHub Issues Page]
+- **Email**: saurab23@iisertvm.ac.in
+
 
 ---
 
